@@ -3,7 +3,7 @@ Selected student final and exhibition pieces with software/hardware components I
 
 
 Interactive color changing lamp
-in [Section `Features`](#feature)
+in [`Jumping For Joy`](#feature)
 
 
 
@@ -23,4 +23,4 @@ in [Section `Features`](#feature)
 # hi
 
 
-## Feature
+## Jumping For Joy
